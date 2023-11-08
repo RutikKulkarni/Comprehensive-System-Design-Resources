@@ -1,5 +1,3 @@
-# Comprehensive System Design Resources
-
 Welcome to the repository of System Design articles and videos, meticulously curated to aid you in interview preparation and the exploration of Distributed Systems. Dive into these well-organized materials to enhance your knowledge in the art of architecting robust, scalable systems.
 
 ## System Design Fundamentals
